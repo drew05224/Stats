@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+
+title: "Results from all Olympic Track & Field Events, 1896 - 2016" author: "JAY RAVALIYA" date: "2023-09-07" output: html_document ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Results form all Olympic Track and Field Events - 1896 to 2016
+
+-   This is a data set that contians that Gender, Event, Location, Year,Medal, Name, Nationality, Result for each Olympic track and field event form 1896 to 2016.
+
+-   Data set: <https://www.kaggle.com/datasets/jayrav13/olympic-track-field-results?resource=download>
+
+    -   Title: "Results from all Olympic Track & Field Events, 1896 - 2016"
+    -   Author: "JAY RAVALIYA"
+    -   Updated: 6 Years ago
+
+-   
+
+-   
